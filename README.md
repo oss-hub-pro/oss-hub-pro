@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-#### I am very happy to you to visit my Pave
+#### I am very happy to you to visit my Page
+
+## In my 1 years experience, I majored severial skills like bellow
+- REACT, C++ 
 <!--
 **oss-hub-pro/oss-hub-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
