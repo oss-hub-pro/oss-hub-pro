@@ -3,27 +3,8 @@
 I am a diligent software engineer and avid open source developer with over 4 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
 
-
 ## Favorite Saying 👍
-
-```rust
-/// Texora's motto
-struct LinusTorvalds;
-
-impl LinusTorvalds {
-  /// Return Linus Torvalds quote
-  fn said(&self) -> &str {
-    "Most good programmers do programming not because they expect to get paid /
-     or get adulation by the public, but because it is fun to program."
-  }
-}
-
-fn main() {
-  let linus_torvalds = LinusTorvalds;
-
-  println!("Linus Torvalds - {}", linus_torvalds.said());
-}
-```
+ #### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
 ## ⚡ My Skills
 <br />
