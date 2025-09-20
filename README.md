@@ -4,7 +4,7 @@
 
 
 ## Favorite Saying 👍
-#### I am an energic person an effective communicator and a quick learner. <br/> I was also one of the top developer in my team while our team developing various project.<br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
+#### Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
 
 ## Please check my portfolio site and github.
 - http://3-d-portfolio-dun-iota.vercel.app/
@@ -49,7 +49,7 @@
         <br>Three.js
       </td>
     </tr>
-   <tr>
+<!--    <tr>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
@@ -81,7 +81,7 @@
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
         </td>
-    </tr>
+    </tr> -->
 </table>
 <h2></h2>
 
