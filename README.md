@@ -4,8 +4,9 @@ I am a diligent software engineer and avid open source developer with over 4 yea
 
 
 ## Favorite Saying 👍
- #### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
-
+```
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.😎
+```
 ## ⚡ My Skills
 <br />
 
