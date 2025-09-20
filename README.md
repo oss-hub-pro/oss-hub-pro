@@ -7,8 +7,8 @@
 ### I am an energic person an effective communicator and a quick learner. <br/> I was also one of the top developer in my team while our team developing various project.<br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 
 ### Please check my portfolio site and github.
-- [http://3-d-portfolio-dun-iota.vercel.app/]
-- [https://github.com/oss-hub-pro]
+- http://3-d-portfolio-dun-iota.vercel.app/
+- https://github.com/oss-hub-pro
 
 
 ## ⚡ My Skills
