@@ -6,8 +6,11 @@
 
 
 ## Favorite Saying 👍
-    Most good programmers do programming not because they expect to get paid or get adulation by the public, 
-    but because it is fun to program.
+    I am an energic person an effective communicator and a quick learner.
+    I was also one of the top developer in my team while our team developing various project.
+    Whatever task that I set to do, I always give my best and complete it diligently well in advance.
+    I think most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+
 
 
 ## ⚡ My Skills
