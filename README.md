@@ -48,7 +48,7 @@
         <br>Three.js
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
@@ -80,7 +80,7 @@
           <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
           <br>WordPress
         </td>
-    </tr>
+    </tr> -->
 </table>
 <h2></h2>
 
