@@ -7,7 +7,7 @@
 
 ## Favorite Saying 👍
     Most good programmers do programming not because they expect to get paid or get adulation by the public, 
-    but because it is fun to program.😎
+    but because it is fun to program.
 
 
 ## ⚡ My Skills
@@ -85,3 +85,6 @@
 <h2></h2>
 
 
+# 📊 GitHub Stats:
+
+![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
