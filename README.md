@@ -1,10 +1,10 @@
 # 👋 Welcome to my github page!
 
-### I am a diligent software engineer and avid open source developer with over 4 years of experience.<br/> I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+#### I am a diligent software engineer and avid open source developer with over 4 years of experience.<br/> I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
 
 ## Favorite Saying 👍
-### I am an energic person an effective communicator and a quick learner. <br/> I was also one of the top developer in my team while our team developing various project.<br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+#### I am an energic person an effective communicator and a quick learner. <br/> I was also one of the top developer in my team while our team developing various project.<br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
 
 ## Please check my portfolio site and github.
 - http://3-d-portfolio-dun-iota.vercel.app/
