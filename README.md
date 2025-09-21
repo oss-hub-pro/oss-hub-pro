@@ -82,7 +82,4 @@
 </table>
 <h2></h2>
 
-
-# 📊 GitHub Stats:
-
 ![snake gif](https://github.com/igdev116/igdev116/blob/output/github-contribution-grid-snake.svg)
