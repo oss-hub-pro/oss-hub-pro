@@ -8,7 +8,6 @@
 
 ## Please check my portfolio site and github.
 - http://3-d-portfolio-dun-iota.vercel.app/
-- https://github.com/oss-hub-pro
 
 
 ## ⚡ My Skills
