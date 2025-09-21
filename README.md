@@ -2,9 +2,6 @@
 
 #### I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. <br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
 
-## Please check my portfolio site and github.
-- http://3-d-portfolio-dun-iota.vercel.app/
-
 
 ## ⚡ My Skills
 <br />
