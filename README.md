@@ -1,10 +1,6 @@
 # 👋 Welcome to my github page!
 
-#### I am a diligent software engineer and avid open source developer with over 4 years of experience.<br/> I am focused on building innovative and cutting-edge business solutions for clients around the world.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
-
-
-## Favorite Saying 👍
-#### Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
+#### I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js.Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program.
 
 ## Please check my portfolio site and github.
 - http://3-d-portfolio-dun-iota.vercel.app/
