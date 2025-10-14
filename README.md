@@ -1,6 +1,7 @@
 # 👋 Welcome to my github page!
 
-### I'm a skilled software developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Node.js, and Three.js. <br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
+### I’m a Software Developer with about 3 years of experience in Blockchain. I’ve worked a lot with  Web3, Solidity, Ethereum, NFTs, Uniswap, DeFi , and  sniper bots , plus building wallets and DApps — so I’ve got solid hands-on experience.
+<br/> Whatever task that I set to do, I always give my best and complete it diligently well in advance.<br/> Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
 <!-- I think most good programmers do programming not because they expect to get paid or <br /> get adulation by the public, but because it is fun to program. -->
 
